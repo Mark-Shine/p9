@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Blog</title><link href="/" rel="alternate"></link><link href="/feeds/p9.atom.xml" rel="self"></link><id>/</id><updated>2014-06-22T00:00:00+02:00</updated><entry><title></title><link href="/what-i-need-to-do.html" rel="alternate"></link><updated>2014-06-22T00:00:00+02:00</updated><author><name>P9</name></author><id>tag:,2014-06-22:what-i-need-to-do.html</id><summary type="html">&lt;p&gt;近期要做的事儿：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;学习 Python 函数式编程及概念 &lt;a href="http://www.cnblogs.com/huxi/archive/2011/06/18/2084316.html"&gt;链接&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;学习 LISP 从而深入体验函数式 &lt;a href="http://www.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/"&gt;链接&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;开发微信接口 完成关注事件的接受和处理&lt;/li&gt;
+&lt;li&gt;学习coursera上市场营销概论&lt;/li&gt;
+&lt;/ul&gt;</summary></entry><entry><title>My First Review</title><link href="/my-first-review.html" rel="alternate"></link><updated>2010-12-01T10:20:00+01:00</updated><author><name>P9</name></author><id>tag:,2010-12-01:my-first-review.html</id><summary type="html">&lt;p&gt;Following is a review of my favorite mechanical keyboard.&lt;/p&gt;</summary></entry></feed>

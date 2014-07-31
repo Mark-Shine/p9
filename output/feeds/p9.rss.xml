@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog</title><link>/</link><description>subtitle</description><atom:link href="/feeds/p9.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 22 Jun 2014 00:00:00 +0200</lastBuildDate><item><title></title><link>/what-i-need-to-do.html</link><description>&lt;p&gt;近期要做的事儿：&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog</title><link>/</link><description>subtitle</description><atom:link href="/feeds/p9.rss.xml" rel="self"></atom:link><lastBuildDate>Sun, 22 Jun 2014 00:00:00 +0200</lastBuildDate><item><title>what I need to do</title><link>/what-i-need-to-do.html</link><description>&lt;p&gt;近期要做的事儿：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;学习 Python 函数式编程及概念 &lt;a href="http://www.cnblogs.com/huxi/archive/2011/06/18/2084316.html"&gt;链接&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;学习 LISP 从而深入体验函数式 &lt;a href="http://www.cs.sfu.ca/CourseCentral/310/pwfong/Lisp/"&gt;链接&lt;/a&gt;&lt;/li&gt;

@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
-THEME = "/Users/pison/Project/blog/pelican-themes/jesuislibre"
+THEME = "/Users/pison/Project/blog/theme/jesuislibre"
 AUTHOR = 'P9'
 SITENAME = 'Blog'
 
